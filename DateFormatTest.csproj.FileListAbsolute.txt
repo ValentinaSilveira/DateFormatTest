@@ -1,0 +1,3 @@
+/Users/vale/Desktop/DateFormatTest/obj/Debug/netcoreapp3.1/DateFormatTest.csprojAssemblyReference.cache
+/Users/vale/Desktop/DateFormatTest/obj/Debug/netcoreapp3.1/DateFormatTest.AssemblyInfoInputs.cache
+/Users/vale/Desktop/DateFormatTest/obj/Debug/netcoreapp3.1/DateFormatTest.AssemblyInfo.cs
